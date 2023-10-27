@@ -1,0 +1,12 @@
+{
+    "b7541a7b-7956-446a-b515-da20492993e5": {
+        "Crop_uuid": "b7541a7b-7956-446a-b515-da20492993e5", str
+        "Crop_image_path": "/measurement/E-coli", str
+        "Crop_image_name": "name of images",
+        "Type": "E-coli", str
+        "Confidence": #int
+    }
+}
+
+# "Viable":True/False,  #Means this thing can re-produce themself or not
+# Record the measurement might be need

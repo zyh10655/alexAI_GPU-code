@@ -1,0 +1,4 @@
+Download the docker desktop and use CMD to get in the work directory,then run:
+docker build -t gpu_server .
+When the build is ready, run this:
+docker run --restart=unless-stopped --gpus all -p 443:8000 gpu_server
